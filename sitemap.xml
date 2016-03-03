@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://pc2016.github.io/index.html</loc>
-		<lastmod>2015-12-18</lastmod>
+		<loc>http://www.pc2016.org/index.html</loc>
+		<lastmod>2016-03-03</lastmod>
 	</url>
 	<url>
-		<loc>http://pc2016.github.io/call-for-papers.html</loc>
-		<lastmod>2015-12-18</lastmod>
+		<loc>http://www.pc2016.org/call-for-papers.html</loc>
+		<lastmod>2016-03-03</lastmod>
 	</url>
 	<url>
-		<loc>http://pc2016.github.io/submission.html</loc>
-		<lastmod>2015-12-18</lastmod>
+		<loc>http://www.pc2016.org/speakers.html</loc>
+		<lastmod>2016-03-03</lastmod>
 	</url>
 	<url>
-		<loc>http://pc2016.github.io/committees.html</loc>
-		<lastmod>2015-12-18</lastmod>
+		<loc>http://www.pc2016.org/submission.html</loc>
+		<lastmod>2016-03-03</lastmod>
+	</url>
+	<url>
+		<loc>http://www.pc2016.org/committees.html</loc>
+		<lastmod>2016-03-03</lastmod>
 	</url>
 </urlset>
